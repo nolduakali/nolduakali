@@ -15,4 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Daftar Supporter 🎉
+
+Terima kasih kepada kalian yang sudah mendukung saya! 💖  
+Berikut daftar nama-nama yang sudah memberikan sawer/support:
+
+### 💰 Dukungan Digital
+| Nama/Username | Platform | Nominal | Tanggal | Pesan |
+|--------------|----------|---------|---------|-------|
+| @johndoe | Saweria | Rp 50.000 | 10 Mei 2024 | Semangat terus! |
+| @anonym123 | Trakteer | Rp 100.000 | 5 Mei 2024 | - |
+| Jane Smith | PayPal | $10 | 1 Mei 2024 | Love your work! |
+
+### Catatan:
+- Jika ingin tetap anonim, beri tahu saya dengan mencantumkan "Anonim" di nama.
+- Ingin mendukung? [Klik di sini](link-saweria/trakteer-mu).
+
+---
+
+*Terakhir diperbarui: 8 Mei 2024*  
+*❤️ Thank you for being part of this journey!*
+
 ![](https://komarev.com/ghpvc/?username=nolduakali)
